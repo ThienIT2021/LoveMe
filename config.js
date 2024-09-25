@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Cảm ơn em vì đã đồng ý làm bạn gái của anh.',
     btnAccept: 'Okiiiii lun 🥰',
-    messLink: 'https://github.com/ThienIT2021/LoveTims' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://thienit2021.github.io/LoveTims/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
